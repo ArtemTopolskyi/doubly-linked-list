@@ -2,7 +2,7 @@
 
 * * *
 
-Simple linked list implementation in JavaScript
+Simple linked list implementation in TypeScript
 
 Main operations:
 
